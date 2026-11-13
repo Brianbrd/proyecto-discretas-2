@@ -1,7 +1,7 @@
 [project]
-name = "discrete-math-project"
+name = "proyecto-discretas-2"
 version = "0.1.0"
-description = "Add your description here"
+description = "Implementación de grafos y algoritmos de recorrido en Python"
 readme = "README.md"
 authors = [
     { name = "@Brianbrd", email = "brian.rodriguez@correounivalle.edu.co" }
@@ -10,7 +10,7 @@ requires-python = ">=3.15"
 dependencies = []
 
 [project.scripts]
-discrete-math-project = "discrete_math_project:main"
+proyecto-discretas-2 = "proyecto_discretas_2:main"
 
 [build-system]
 requires = ["uv_build>=0.13.7,<0.14.0"]
